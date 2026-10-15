@@ -1,0 +1,19 @@
+# Archivos RAW y de imagen de prueba
+*.ORF
+*.orf
+*.raw
+*.dng
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Entornos y dependencias
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
